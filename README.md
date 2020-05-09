@@ -7,7 +7,7 @@ Available Data for Analysis:
 1 Company details
 2 Funding round details
 3 Sector Classification
-4 Spark Funds’ business objective:
+4 Spark Funds’
 
 Business objective: 
   The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
